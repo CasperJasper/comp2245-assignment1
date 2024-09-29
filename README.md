@@ -1,2 +1,2 @@
 # comp2245-assignment1
-HTML Webpage and also for future assignments
+This is Assignment 1 for Kemier Francis
